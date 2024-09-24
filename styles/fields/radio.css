@@ -20,7 +20,7 @@ label + .radio-wrapper {
 
   position: relative;
   & input,
-  & input:,
+  & input,
   & input:hover {
     all: unset;
     position: absolute;
