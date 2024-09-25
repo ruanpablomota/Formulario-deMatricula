@@ -10,7 +10,7 @@
   }
 }
 
-.checkboc-wrapper {
+.checkbox-wrapper {
   position: relative;
 
   &[type="checkbox"] {
@@ -19,7 +19,7 @@
     inset: 0;
   }
 
-  .checkbox- {
+  .checkbox {
     flex: 0 0 1.5rem;
     height: 1.5rem;
 
